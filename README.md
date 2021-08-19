@@ -25,3 +25,14 @@ Bùi Tùng Lâm, Hello World!!
 - ⚡ Fun fact: https://www.facebook.com/profile.php?id=100016689363363
 - 🌱 I’m currently learning: http://truongthptchuyen.vinhuni.edu.vn/
 - I want to be a full stack developer. I am learning with Javascript frameworks like ReactJS, VueJS, AngularJS, React Native, NodeJS,... 
+- Languages & Frameworks
+HTMLCSSJavaScriptPythonDjango
+
+Databases
+MySQLPostgreSQL
+
+Tools
+LinuxBashGitVim
+
+Contact me
+TelegramLinkedInCodeWars
