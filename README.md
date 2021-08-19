@@ -33,6 +33,4 @@ Junior python developer with no work experience, but with a great desire to lear
 ### Tools
 [![Linux](https://img.shields.io/badge/Linux-FAD7A0?style=for-the-badge&logo=linux&logoColor=white)](https://ubuntu.com/)[![Bash](https://img.shields.io/badge/Bash-F8D1A4?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)[![Git](https://img.shields.io/badge/Git-F5CBA7?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 ### Contact me
-[![Telegram](https://img.shields.io/badge/Telegram-FAD7A0?style=for-the-badge&logo=discord&logoColor=white)](https://t.me/lam3082004)[![LinkedIn](https://img.shields.io/badge/LinkedIn-F8D1A4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/l%C3%A2m-b%C3%B9i-16748a21a/)
-
-
+[!Facebook(https://img.shields.io/badge/Telegram-FAD7A0?style=for-the-badge&logo=discord&logoColor=white)](https://www.facebook.com/profile.php?id=100016689363363)[![Telegram](https://img.shields.io/badge/Telegram-FAD7A0?style=for-the-badge&logo=discord&logoColor=white)](https://t.me/lam3082004)[![LinkedIn](https://img.shields.io/badge/LinkedIn-F8D1A4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/l%C3%A2m-b%C3%B9i-16748a21a/)
