@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- ⚡ Fun fact: https://www.facebook.com/profile.php?id=100016689363363
+- 🌱 I’m currently learning: http://truongthptchuyen.vinhuni.edu.vn/
+- 
