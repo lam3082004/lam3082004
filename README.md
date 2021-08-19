@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **lam3082004/lam3082004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-----------------------------------------
-Bùi Tùng Lâm, Hello World!!
+###Bùi Tùng Lâm, Hello World!!👋
 ----------------------------------------
       \   ^__^
        \  (oo)\_______
