@@ -14,6 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+----------------------------------------
+Bùi Tùng Lâm, Hello World!!
+----------------------------------------
+      \   ^__^
+       \  (oo)\_______
+          (__)\ 0   0 )\  *
+              ||--0-w | \/
+              ||     ||
 - ⚡ Fun fact: https://www.facebook.com/profile.php?id=100016689363363
 - 🌱 I’m currently learning: http://truongthptchuyen.vinhuni.edu.vn/
 - I want to be a full stack developer. I am learning with Javascript frameworks like ReactJS, VueJS, AngularJS, React Native, NodeJS,... 
