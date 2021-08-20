@@ -21,10 +21,8 @@ Bùi Tùng Lâm, Hello World!!👋
           (__)\ 0   0 )\  *
               ||--0-w | \/
               ||     ||
-About me
-- ⚡ Fun fact: https://www.facebook.com/profile.php?id=100016689363363
-- 🌱 I’m currently learning: http://truongthptchuyen.vinhuni.edu.vn/
-- I want to be a full stack developer. I am learning with Javascript frameworks like ReactJS, VueJS, AngularJS, React Native, NodeJS,... 
+### About me
+I want to be a full stack developer. I am learning with Javascript frameworks like ReactJS, VueJS, AngularJS, React Native, NodeJS,... 
 Junior python developer with no work experience, but with a great desire to learn. I like the philosophy of open source projects.
 ### Languages & Frameworks
 [![HTML](https://img.shields.io/badge/HTML-FAD7A0?style=for-the-badge&logo=HTML5&logoColor=white)](https://html.com/)[![CSS](https://img.shields.io/badge/CSS-F8D1A4?style=for-the-badge&logo=CSS3&logoColor=white)](http://www.css3.com/)[![JavaScript](https://img.shields.io/badge/JavaScript-F5CBA7?style=for-the-badge&logo=javascript&logoColor=white)](http://www.ecmascript.org/)[![Python](https://img.shields.io/badge/Python-F1C3A0?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
